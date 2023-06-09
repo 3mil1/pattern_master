@@ -1,0 +1,23 @@
+{
+  "name": "wise_kj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.1.6",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "grammy": "^1.16.1",
+    "langchain": "^0.0.88",
+    "node-oauth2-server": "^2.4.0",
+    "openai": "^3.2.1"
+  }
+}
